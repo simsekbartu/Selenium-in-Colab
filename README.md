@@ -44,7 +44,7 @@ NoSuchDriverException: Message: Unable to locate or obtain driver for chrome; Fo
 ```
 # 🛠 Solution
 
-<a href="https://colab.research.google.com/github/simsekbartu/Bartu/blob/main/Selenium_Webdriver_in_Google_Colab.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/simsekbartu/Selenium-in-Colab/blob/main/Selenium_Webdriver_in_Google_Colab.ipynb" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
